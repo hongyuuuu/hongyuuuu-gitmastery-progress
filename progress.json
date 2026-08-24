@@ -335,5 +335,14 @@
       "Expected commit message of 'Add the delete feature', got '<Missing commit>' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787552989.628024,
+    "completed_at": 1787552994.279958,
+    "comments": [
+      "Branch 'feature-delete' still exists."
+    ],
+    "status": "Incomplete"
   }
 ]
